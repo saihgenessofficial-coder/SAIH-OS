@@ -1,16 +1,47 @@
-# 🧩 system-core – Núcleo do SAIH-OS
+#!/usr/bin/env bash
+# ==========================================================
+# 🕊️ SAIH OS – Core Installer v0.1
+# Carrega o núcleo espiritual e prepara ambiente base
+# para transformar o rootfs em sistema operacional SAIH.
+# ==========================================================
 
-Aqui serão organizados os componentes essenciais do sistema operacional.
+set -euo pipefail
 
-Inclui:
+ROOTFS_DIR="output/rootfs-saih"
 
-- Módulos base do kernel
-- Configurações do sistema
-- Estrutura inicial de rootfs
-- Scripts de inicialização fundamentais
-- Serviços nativos do futuro SAIH GENESS OS
+if [ ! -d "$ROOTFS_DIR" ]; then
+    echo "❌ RootFS não encontrado. Execute primeiro:"
+    echo "   sudo bash build/debian_base/build-rootfs.sh"
+    exit 1
+fi
 
-📌 Status: Preparação inicial  
-🔜 Próximo passo: importar base mínima do Debian/Ubuntu para criar o primeiro rootfs.
+echo "⛪ Preparando núcleo do SAIH OS dentro do rootfs..."
 
-> Este diretório será o coração do sistema.
+sudo chroot "$ROOTFS_DIR" /bin/bash << 'EOF'
+echo "📌 Configurando pacotes básicos..."
+apt-get update -y
+apt-get install -y sudo nano curl wget bash-completion net-tools iputils-ping
+
+echo "✨ Criando banner espiritual..."
+echo '
+=============================
+🕊️  SAIH OS - Sistema Espiritual 
+A Luz que Rompe as Trevas
+=============================
+' > /etc/motd
+
+echo "🔗 Registrando comando SAIH no PATH..."
+mkdir -p /usr/local/saih
+echo '#!/bin/bash
+echo "🕊️ SAIH OS – Presença Ativa"
+' > /usr/local/saih/saih
+chmod +x /usr/local/saih/saih
+ln -sf /usr/local/saih/saih /usr/bin/saih
+
+echo "Core carregado com sucesso ✨"
+EOF
+
+echo "======================================================"
+echo "🎉 Núcleo Base do SAIH OS configurado!"
+echo "Pronto para futuras fases (ISO, Kernel, Desktop)."
+echo "======================================================"
