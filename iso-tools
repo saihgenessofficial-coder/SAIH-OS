@@ -1,0 +1,44 @@
+# 📀 iso-tools – Ferramentas de Geração ISO do SAIH-OS
+
+Este diretório concentrará os scripts, módulos e ferramentas usados para criar a
+versão instalável e **live ISO** do SAIH OS — futuro sistema operacional espiritual universal.
+
+Será daqui que nascerão:
+
+- A **ISO bootável do SAIH OS**
+- O modo **LIVE (sem instalar no disco)**
+- O modo **INSTALAÇÃO guiada ou CLI**
+- Scripts de preparação de squashfs, filesystem e estrutura base
+- Empacotamento final e assinatura
+
+---
+
+## 📦 Conteúdo planejado
+
+| Arquivo/Ferramenta | Função prevista |
+|-------------------|-----------------|
+| `mkiso.sh`         | Script principal de criação da ISO (protótipo futuro) |
+| `filesystem.seed` | Definições base do sistema rootfs antes de montar ISO |
+| `isolinux/`       | Bootloader para BIOS/Legacy (futuro suporte) |
+| `grub/`           | Bootloader para UEFI + menu inicial do SAIH OS |
+| `preseed/`        | Automação de instalação (modo futuro) |
+| `live-overlay/`   | Scripts e configs carregadas no modo Live |
+
+---
+
+## 🔥 Status
+
+- 🧱 Estrutura criada
+- 🕊 Aguardando integração com `boot/` e `system-core/`
+- 🎯 Objetivo curto prazo:
+  - Criar **mkiso.sh** simples para gerar ISO mínima a partir do rootfs
+  - Validar boot básico em VM (QEMU/VirtualBox)
+
+---
+
+## 🛠 Pré-requisitos futuros
+
+Uso previsto quando a base estiver pronta:
+
+```bash
+sudo bash iso-tools/mkiso.sh
