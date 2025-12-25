@@ -1,0 +1,17 @@
+# Pacotes base mínimos para o rootfs do SAIH OS (Debian/Ubuntu)
+bash
+coreutils
+systemd-sysv
+ca-certificates
+netbase
+iproute2
+iputils-ping
+nano
+vim-tiny
+less
+sudo
+curl
+wget
+openssh-client
+locales
+tzdata
