@@ -1,0 +1,16 @@
+# 🧩 system-core – Núcleo do SAIH-OS
+
+Aqui serão organizados os componentes essenciais do sistema operacional.
+
+Inclui:
+
+- Módulos base do kernel
+- Configurações do sistema
+- Estrutura inicial de rootfs
+- Scripts de inicialização fundamentais
+- Serviços nativos do futuro SAIH GENESS OS
+
+📌 Status: Preparação inicial  
+🔜 Próximo passo: importar base mínima do Debian/Ubuntu para criar o primeiro rootfs.
+
+> Este diretório será o coração do sistema.
