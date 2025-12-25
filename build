@@ -1,0 +1,9 @@
+# Build do SAIH-OS
+
+Área destinada aos arquivos de compilação, kernel, scripts de boot e geração ISO.  
+Será aqui que futuramente construiremos o ambiente para gerar a imagem final do sistema operacional.
+
+🟡 Status atual: Preparação inicial  
+🔜 Próximo passo: Estrutura CLI do Sistema Base (Fase B)
+
+> Este diretório representa o alicerce técnico do futuro SAIH GENESS OS bootável.
