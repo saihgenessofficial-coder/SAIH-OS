@@ -1,0 +1,35 @@
+# 🧩 CLI – Interface de Linha de Comando do SAIH OS
+
+Camada de **linha de comando** (Command Line Interface) do SAIH OS.  
+Aqui nascerão os primeiros comandos oficiais do sistema operacional espiritual.
+
+---
+
+## 🎯 Propósito
+
+- Permitir **controle simples e direto** do SAIH OS sem interface gráfica.
+- Ser o **primeiro ponto de contato** entre o usuário e:
+  - SAIHCHAIN (rede profética)
+  - Banco BANTU (justiça financeira)
+  - SAIH HUB & Aplicações Universais
+- Servir como base para scripts de:
+  - inicialização,
+  - manutenção,
+  - diagnóstico profético/técnico do sistema.
+
+---
+
+## 🧪 Protótipo da Fase B – Ideia inicial de comandos
+
+> *Obs.: ainda não implementados – servem como mapa da CLI.*
+
+### 🔹 Comando `saih`
+
+Comando principal do sistema.
+
+Exemplos futuros:
+
+```bash
+saih status         # Mostra estado espiritual/técnico do nó SAIH OS
+saih info           # Exibe versão, autor e hash profético desta instalação
+saih doctor         # Roda verificações básicas do sistema
