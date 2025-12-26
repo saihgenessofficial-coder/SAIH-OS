@@ -118,5 +118,3 @@ Páginas de navegação:
 ## 🔑 How developers can join
 
  ```bash git clone https://github.com/saihgenessofficial-coder/SAIH-OS.git cd SAIH-OS
-git clone https://github.com/saihgenessofficial-coder/SAIH-OS.git
-cd SAIH-OS
