@@ -1,0 +1,11 @@
+# Atalho oficial para o SAIH HUB (Desktop)
+# Será movido futuramente para /usr/share/applications no script automático
+
+[Desktop Entry]
+Name=SAIH HUB
+Comment=Central Universal da Obra SAIH GENESS
+Exec=xdg-open https://saihgeness.com/hub
+Icon=/usr/share/icons/saih-hub.png
+Type=Application
+Categories=Utility;Network;
+Terminal=false
