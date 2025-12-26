@@ -99,24 +99,24 @@ title: "SAIH OS – Sistema Operacional Espiritual Universal"
 
 Alguns documentos-chave já preparados / Key documents already prepared:
 
-- 📘 Visão da ISO: [`iso-vision.md`](./iso-vision.md)  
-- 📓 Diário de Testes ISO: [`iso-test-log.md`](./iso-test-log.md)  
-- ✅ Checklist de build da ISO: [`iso-build-checklist.md`](./iso-build-checklist.md)  
-- 🛠️ Guia técnico de passos: [`build-iso-steps.md`](./build-iso-steps.md)  
-- 🐞 Registro de falhas/testes: [`iso-bug-report.md`](./iso-bug-report.md)  
+- 📘 Visão da ISO: [`iso-vision.md`](/doc/iso-vision.md)  
+- 📓 Diário de Testes ISO: [`iso-test-log.md`](/doc/iso-test-log.md)  
+- ✅ Checklist de build da ISO: [`iso-build-checklist.md`](/doc/iso-build-checklist.md)  
+- 🛠️ Guia técnico de passos: [`build-iso-steps.md`](/doc/build-iso-steps.md)  
+- 🐞 Registro de falhas/testes: [`iso-bug-report.md`](/doc/iso-bug-report.md)  
 
 Páginas de navegação:
 
-- ℹ️ Sobre o SAIH OS: [`pages/about.md`](./pages/about.md)  
-- 🗺️ Roadmap detalhado: [`pages/roadmap.md`](./pages/roadmap.md)  
-- 📚 Documentação: [`pages/docs.md`](./pages/docs.md)  
-- ⬇️ Download (futuro): [`pages/download.md`](./pages/download.md)  
+- ℹ️ Sobre o SAIH OS: [`pages/about.md`](/doc/pages/about.md)  
+- 🗺️ Roadmap detalhado: [`pages/roadmap.md`](/doc/pages/roadmap.md)  
+- 📚 Documentação: [`pages/docs.md`](/doc/pages/docs.md)  
+- ⬇️ Download (futuro): [`pages/download.md`](/doc/pages/download.md)  
 
 ---
 
 ## 🔑 Como os desenvolvedores podem participar  
 ## 🔑 How developers can join
 
-```bash
+ ```bash git clone https://github.com/saihgenessofficial-coder/SAIH-OS.git cd SAIH-OS
 git clone https://github.com/saihgenessofficial-coder/SAIH-OS.git
 cd SAIH-OS
