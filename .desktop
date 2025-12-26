@@ -1,0 +1,10 @@
+# Exemplo que será usado no script oficial
+
+cat <<EOF | sudo tee /usr/share/applications/saihchain.desktop
+[Desktop Entry]
+Name=SAIHCHAIN GENESIS Explorer
+Exec=xdg-open https://saihchain.com
+Icon=/usr/share/icons/saihchain-genesis-logo.png
+Type=Application
+Categories=Network;
+EOF
