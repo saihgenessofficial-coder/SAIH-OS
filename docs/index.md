@@ -1,8 +1,10 @@
 ---
-title: "🌌SAIH OS – Sistema Operacional Espiritual Universal"
+title: "SAIH OS – Sistema Operacional Espiritual Universal"
 ---
 
 <link rel="stylesheet" href="./style.css">
+
+<div class="page">  <!-- ⬅️ NOVO: começa o container principal -->
 
 <div class="lang-switch">
   <a href="#pt">PT</a>
