@@ -25,5 +25,4 @@ title: "Roadmap – SAIH OS"
 - Rotina de atualização segura (OTA).
 
 ---
-
 [⬅ Voltar ao início](../index.md)
