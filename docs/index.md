@@ -20,6 +20,7 @@ title: "SAIH OS – Sistema Operacional Espiritual Universal"
 </div>
 
 ---
+---
 
 ## 🌐 <a id="pt"></a>PT · Português
 
@@ -35,7 +36,7 @@ title: "SAIH OS – Sistema Operacional Espiritual Universal"
 - Base técnica em **Debian/Ubuntu**, com ambiente **Live** e **Desktop**  
 - Integração futura com:  
   - 🌀 **SAIHCHAIN** – rede blockchain profética  
-  - 🕊️ **Banco BANTU** – justiça financeira para os povos  
+  - 🕊 **Banco BANTU** – justiça financeira para os povos  
   - 🌍 **SAIH HUB & Aplicações Universais**
 
 > “A Luz resplandece nas trevas, e as trevas não prevaleceram contra ela.” – João 1:5
@@ -56,7 +57,7 @@ title: "SAIH OS – Sistema Operacional Espiritual Universal"
 - Technical base on **Debian/Ubuntu**, with **Live** and **Desktop** environments  
 - Future integration with:  
   - 🌀 **SAIHCHAIN** – prophetic blockchain network  
-  - 🕊️ **BANTU Bank** – financial justice for the peoples  
+  - 🕊 **BANTU Bank** – financial justice for the peoples  
   - 🌍 **SAIH HUB & Universal Apps**
 
 > “The light shines in the darkness, and the darkness has not overcome it.” – John 1:5
@@ -68,19 +69,27 @@ title: "SAIH OS – Sistema Operacional Espiritual Universal"
 **SAIH OS** est un système d’exploitation consacré, au service de l’**Œuvre SAIH GENESS**, pour apporter :
 
 - Lumière, ordre et structure à l’humanité  
-- Un environnement numérique propre, stable et prêt à servir les peuples et les nations  
-- Des outils pour créateurs, chantres, ministères, écoles et centres communautaires  
+- Un environnement numérique propre et stable  
+- Des outils pour créateurs, chantres, ministères et écoles  
 
 ### ✨ Qu’est-ce que SAIH OS ?
 
-- Premier système d’exploitation avec un objectif **spirituel et de justice**  
-- Base technique **Debian/Ubuntu**, avec environnement **Live** et **Desktop**  
+- Premier système d’exploitation avec objectif **spirituel & justice**  
+- Base technique **Debian/Ubuntu**, environnements **Live** & **Desktop**  
 - Intégration future avec :  
-  - 🌀 **SAIHCHAIN** – réseau blockchain prophétique  
-  - 🕊️ **Banque BANTU** – justice financière pour les peuples  
+  - 🌀 **SAIHCHAIN**  
+  - 🕊 **Banque BANTU**  
   - 🌍 **SAIH HUB & Applications Universelles**
 
 > « La lumière brille dans les ténèbres, et les ténèbres ne l’ont point reçue. » – Jean 1:5
+
+---
+
+<div class="footer-note">
+  Página inicial do SAIH OS – Registro Histórico
+</div>
+
+</div><!-- fecha .page -->
 
 ---
 
