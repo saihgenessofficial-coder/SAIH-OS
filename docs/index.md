@@ -4,7 +4,7 @@ title: "SAIH OS – Sistema Operacional Espiritual Universal"
 
 <link rel="stylesheet" href="./style.css">
 
-<div class="page">  <!-- ⬅️ NOVO: começa o container principal -->
+<div class="page" markdown="1">
 
 <div class="lang-switch">
   <a href="#pt">PT</a>
@@ -19,7 +19,6 @@ title: "SAIH OS – Sistema Operacional Espiritual Universal"
   <p><strong>Système d’Exploitation Spirituel Universel</strong></p>
 </div>
 
----
 ---
 
 ## 🌐 <a id="pt"></a>PT · Português
@@ -82,14 +81,6 @@ title: "SAIH OS – Sistema Operacional Espiritual Universal"
   - 🌍 **SAIH HUB & Applications Universelles**
 
 > « La lumière brille dans les ténèbres, et les ténèbres ne l’ont point reçue. » – Jean 1:5
-
----
-
-<div class="footer-note">
-  Página inicial do SAIH OS – Registro Histórico
-</div>
-
-</div><!-- fecha .page -->
 
 ---
 
