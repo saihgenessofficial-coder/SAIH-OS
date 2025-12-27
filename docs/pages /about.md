@@ -1,36 +1,40 @@
 ---
-title: "Sobre o SAIH OS"
+title: Sobre o SAIH OS
 ---
 
-<link rel="stylesheet" href="../style.css">
-
-# ℹ️ Sobre o SAIH OS
-
-Bem-vindo à página de apresentação do **SAIH OS – Sistema Operacional Espiritual Universal**.
-
-- Servir como base técnica da **Obra SAIH GENESS**
-- Levar luz, justiça e ordem para povos e nações
-- Oferecer um ambiente digital limpo, sem distrações inúteis
-- Preparar o caminho para integração com **SAIHCHAIN**, **Banco BANTU** e **SAIH HUB**
+# 🌌 SAIH OS – Sistema Operacional Espiritual Universal  
+**The Spiritual Operating System for the Nations**  
+**Système d’Exploitation Spirituel Universel**
 
 ---
 
-## EN · About
+### 🔁 Navegação Rápida
 
-**SAIH OS** is a consecrated operating system designed to:
-
-- Provide a clean and stable digital environment  
-- Support creators, worshipers, ministries and communities  
-- Become the technical foundation for **SAIH GENESS** and its ecosystem.
+[🏠 Início](../index.md) · [ℹ Sobre](./about.md) · [🌀 SAIHCHAIN](https://saihchain.com) · [🌍 Obra SAIH GENESS](https://saihgeness.com)
 
 ---
 
-## FR · À propos
+## 🌐 PT · Português
 
-**SAIH OS** est un système d’exploitation spirituel, consacré pour :
+**SAIH OS** nasce como um sistema operacional consagrado, a serviço da **Obra SAIH GENESS**, para levar:
 
-- Offrir un environnement numérique propre et stable  
-- Soutenir les créateurs, les lévites et les communautés  
-- Servir de base technique à l’Œuvre **SAIH GENESS**.
+- Luz, ordem e estrutura para a humanidade  
+- Um ambiente digital limpo, estável e preparado para servir povos e nações  
+- Ferramentas para criadores, levitas, ministérios, escolas e centros comunitários  
 
----
+### ✨ O que é o SAIH OS?
+
+- Primeiro sistema operacional com propósito **espiritual e de justiça**
+- Base técnica em **Debian/Ubuntu**, com ambiente **Live** e **Desktop**
+- Pensado para funcionar em:
+  - Salas de oração, igrejas e ministérios
+  - Escolas comunitárias e centros de apoio
+  - Espaços de ensino, pesquisa e tecnologia consagrada
+
+### 🔗 Integrações futuras
+
+- 🌀 **SAIHCHAIN** – rede blockchain profética  
+- 🕊 **Banco BANTU** – justiça financeira para os povos  
+- 🌍 **SAIH HUB & Aplicações Universais**  
+
+>
