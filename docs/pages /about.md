@@ -10,7 +10,7 @@ title: Sobre o SAIH OS | About SAIH OS | À propos du SAIH OS
 
 ### 🔁 Navegação / Navigation / Navigation
 
-[🏠 Início](../index.md) · [ℹ Sobre](./about.md) · [🌀 SAIHCHAIN](https://saihchain.com) · [🌍 Obra SAIH GENESS](https://saihgeness.com)
+[🏠 Início](../index.md) · [ℹ Sobre](https://github.com/saihgenessofficial-coder/SAIH-OS/blob/main/docs/pages/about.md) · [🌀 SAIHCHAIN](https://saihchain.com) · [🌍 Obra SAIH GENESS](https://saihgeness.com)
 
 ---
 
