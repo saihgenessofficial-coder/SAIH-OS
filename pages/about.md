@@ -91,10 +91,9 @@ title: Sobre o SAIH OS
 
 ## 🔁 Navegação / Navigation
 
-- ← [Início do SAIH OS](🔗 https://github.com/saihgenessofficial-coder/SAIH-OS/index.md)  
-- 🌐 [Portal da SAIHCHAIN GENESIS](https://www.saihchain.com/) 
-- 🕊️ [Obra SAIH GENESS – Site principal](https://saihgeness.com)
+[🏠 Início do SAIH OS](../index.md) • [ℹ️ Sobre o SAIH OS](./about.md) • [🌀 SAIHCHAIN GENESIS](https://saihchain.com) • [🌍 Obra SAIH GENESS](https://saihgeness.com)
+
 
 ---
 
-[⬅ Voltar ao início](../index.md)
+[⬅ Voltar ao início](https://github.com/saihgenessofficial-coder/SAIH-OS/index.md)
