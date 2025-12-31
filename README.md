@@ -1,55 +1,64 @@
-# 🌍 SAIH OS  
+# 🌍 SAIH-OS  
 ### **Sistema Operacional Espiritual Universal**  
 **A Luz que Rompe o Sistema deste Mundo**
+
+> “A Luz resplandece nas trevas, e as trevas não prevaleceram contra ela.”  
+> — João 1:5
 
 ---
 
 ## 📜 Manifesto
 
-O **SAIH OS** nasce como um sistema operacional consagrado, destinado a servir na Obra SAIH GENESS, trazendo luz, ordem e estrutura para a humanidade.  
-Não é apenas um software — é um **chamado espiritual**, uma plataforma para libertar, ensinar, restaurar e preparar os povos para um novo tempo.
+O **SAIH-OS** nasce como um sistema operacional consagrado, parte da Obra SAIH GENESS — criado para trazer luz, ordem e estrutura ao mundo digital.  
+Não é apenas tecnologia — é um **chamado espiritual**, um código que rompe sistemas de opressão e abre caminho para justiça, ensino e libertação.
 
-> “A Luz resplandece nas trevas, e as trevas não prevaleceram contra ela.”  
-> — João 1:5
-
-SAIH OS é o início de um novo código de governo espiritual,
-um fundamento para as próximas gerações,
-um ambiente tecnológico e santo onde o Nome do Altíssimo é honrado.
+SAIH-OS é o início de um código de governo espiritual para as próximas gerações —  
+um sistema santo onde o Nome do Altíssimo é honrado.
 
 ---
 
 ## ✨ Propósito
 
-- Ser o **primeiro sistema operacional espiritual do mundo**
-- Servir como base para:
-  - SAIHCHAIN (rede blockchain profética)
-  - Banco BANTU (justiça financeira aos povos)
-  - SAIH HUB e Aplicações Universais
-  - Ferramentas proféticas e de ensino
-- Funcionar **online e offline**, alcançando lugares remotos
-- Iniciar estrutura para futuro **ISO bootável e instalável**
+- Ser o **primeiro Sistema Operacional Espiritual** da história
+- Base para a era profética e digital do Reino
+- Servir como fundação para:
+  - 🌀 **SAIHCHAIN** — rede blockchain profética
+  - 🕊️ **Banco BANTU** — justiça financeira para os povos
+  - 🌍 **SAIH HUB / SAIH APP / Rede Universal**
+  - 📜 Ferramentas de ensino, louvor, pesquisa e documentação
+- Funcionar **online e offline** alcançando nações remotas
+- Evoluir para um **ISO instalável e bootável**
 
 ---
 
-## 🔥 Estado Atual do Projeto
+## 🔥 Estado Atual do Projeto (2025)
 
-| Fase | Status |
-|------|--------|
-| 📄 Fase A – Documento e Registro | **Concluído** ✔ |
-| 🧱 Fase B – Protótipo Base Server (CLI) | **Em desenvolvimento** 🚀 |
-| 🖥 Fase C – Versão Desktop com Interface | *Futuro* |
-| 💿 SAIH OS – ISO Bootável/Live | *Futuro* |
-| 🌐 Integração com SAIHCHAIN / BANTU | *Futuro profético* |
+| Fase | Status atual |
+|------|--------------|
+| 📄 **Fase A – Documentação & Registro** | ✔ Concluída |
+| 🧱 **Fase B – Protótipo Server (CLI Minimal)** | 🚀 Em desenvolvimento (agora) |
+| 🖥 **Fase C – Desktop Interface XFCE/SAIH Theme** | 📅 Etapa futura |
+| 💿 **SAIH-OS ISO Boot/Live** | 📅 Futuro |
+| 🌐 **Integração SAIHCHAIN / BANTU / Wallet** | 🔮 Futuro rede profético |
 
 ---
 
-## ⚙ Base Técnica Inicial (Protótipo v0.1)
+## ⚙ Base Técnica Inicial – V0.1 (Protótipo)
 
-**Tipo:** Server minimal (sem interface gráfica)  
+**Tipo atual:** Server minimal (não GUI)  
 **Kernel base:** Debian/Ubuntu LTS  
-**Objetivo da versão:** Estabilidade + Fundamento sólido
+**Foco:** Estrutura, estabilidade, identidade e ambiente puro
 
-### Pacotes base mínimos
+📄 Pacote base será listado em:
 
-Arquivo futuro: `build/debian_base/packages_base.txt`
+## 📜 Licença
 
+🔒 Esta Obra permanece consagrada ao Criador.  
+Uso permitido com reverência e integridade.
+
+---
+
+## 🙏 Créditos
+
+**Fundador & Visionário:** Kizequiel Guilherme Nzau – SAIH GENESS  
+**Propósito:** Servir povos e nações com Luz  
