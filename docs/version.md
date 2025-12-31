@@ -10,6 +10,20 @@ Data: **2025-31-12**
 - [README.md](../README.md)
 ---
 
+### 🔜 v1.1 — CLI Seed (planejado)
+
+Primeiro passo operacional em terminal para o SAIH-OS.
+
+Previsto para incluir:
+- Shell base com identidade espiritual SAIH
+- Comandos internos iniciais
+- Estrutura de orquestração CLI
+- Fundamento para interações futuras com SAIHCHAIN e Banco BANTU
+
+Status: **Em preparação — aguardando execução técnica**
+
+---
+
 ## 🏁 Estado Atual
 - Estrutura inicial reconhecida
 - README oficial publicado
