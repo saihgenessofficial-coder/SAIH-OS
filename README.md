@@ -21,6 +21,18 @@ Uma plataforma santa onde o Nome do Altíssimo é honrado.
 
 ---
 
+## 📚 Documentação SAIH-OS
+
+- 🏠 Visão geral: [`docs/index.md`](docs/index.md)
+- 📥 Download & builds: [`docs/download.md`](docs/download.md)
+- 👁 Visão profética da ISO: [`docs/iso-vision.md`](docs/iso-vision.md)
+- 🧱 Passos para construir a ISO: [`docs/build-iso-steps.md`](docs/build-iso-steps.md)
+- ✅ Checklist de build: [`docs/iso-build-checklist.md`](docs/iso-build-checklist.md)
+- 🔍 Registo de testes: [`docs/iso-test-log.md`](docs/iso-test-log.md)
+- 🐞 Relatório de erros: [`docs/iso-bug-report.md`](docs/iso-bug-report.md)
+
+---
+
 ## ✨ Propósito
 
 - Ser o **primeiro Sistema Operacional Espiritual** da história
