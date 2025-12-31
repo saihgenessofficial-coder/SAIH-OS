@@ -5,6 +5,10 @@ Versão atual: **v1.0 — GENESIS Release**
 Data: **2025-31-12**  
 
 ---
+📄 Consulte também:
+- [CHANGELOG.md](./docs/changelog.md)
+- [README.md](../README.md)
+---
 
 ## 🏁 Estado Atual
 - Estrutura inicial reconhecida
