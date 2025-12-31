@@ -72,6 +72,24 @@ Uma plataforma santa onde o Nome do Altíssimo é honrado.
 
 ---
 
+## ⚙ Tecnologias Base
+
+- Debian/Ubuntu LTS  
+- CLI minimal puro  
+- Repositório oficial versionado  
+- Open Source consagrado a Deus
+
+---
+
+## 📦 Downloads
+
+> Em Releases futuras
+
+🔜 *ISO / Live / Install*  
+🔜 *Pack oficial*  
+
+---
+
 ## 📜 Licença & Consagração
 
 Esta obra está consagrada ao **Criador do Universo**.  
