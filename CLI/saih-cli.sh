@@ -1,11 +1,11 @@
 #!/bin/bash
 # =============================================
-# 🌿 SAIH-CLI – Interface de Comando do SAIH OS
+# 🌿 SAIH-CLI – Interface de Comando do SAIH-OS
 # Núcleo de interação via terminal (Protótipo v0.1)
 # =============================================
 
 VERSION="0.1.0"
-OS_NAME="SAIH OS"
+OS_NAME="SAIH-OS"
 OS_TAGLINE="Sistema Operacional Espiritual Universal"
 
 # ---------------------------------------------
@@ -19,12 +19,12 @@ show_help() {
   echo "---------------------------------------------"
   echo "Comandos disponíveis:"
   echo "  saih help          -> Exibe esta ajuda"
-  echo "  saih versao        -> Exibe versão do SAIH-CLI e do SAIH OS"
-  echo "  saih sobre         -> Mostra visão e propósito do SAIH OS"
+  echo "  saih versao        -> Exibe versão do SAIH-CLI e do SAIH-OS"
+  echo "  saih sobre         -> Mostra visão e propósito do SAIH-OS"
   echo
   echo "  saih sistema       -> (futuro) Informações do sistema espiritual"
   echo "  saih diagnostico   -> (futuro) Verificações básicas do ambiente"
-  echo "  saih atualizar     -> (futuro) Atualizar pacotes base do SAIH OS"
+  echo "  saih atualizar     -> (futuro) Atualizar pacotes base do SAIH-OS"
   echo "  saih saihchain     -> (futuro) Integração com a Rede-SAIHCHAIN"
   echo "---------------------------------------------"
   echo "Use: saih <comando>"
@@ -40,9 +40,9 @@ cmd_versao() {
 
 cmd_sobre() {
   echo "---------------------------------------------"
-  echo "SOBRE O SAIH OS"
+  echo "SOBRE O SAIH-OS"
   echo
-  echo "O SAIH OS é um sistema operacional consagrado,"
+  echo "O SAIH-OS é um sistema operacional consagrado,"
   echo "desenhado para servir à Obra SAIH GENESS, trazendo"
   echo "luz, ordem e estrutura espiritual para as nações."
   echo
@@ -59,19 +59,19 @@ cmd_sobre() {
 cmd_sistema() {
   echo "🔧 [sistema] – Função profética em preparação."
   echo "No futuro, aqui serão exibidas informações"
-  echo "sobre o estado do SAIH OS, serviços e módulos."
+  echo "sobre o estado do SAIH-OS, serviços e módulos."
 }
 
 cmd_diagnostico() {
   echo "🔍 [diagnostico] – Em preparo."
   echo "Será usado para verificar ambiente, dependências"
-  echo "e conexões necessárias ao SAIH OS."
+  echo "e conexões necessárias ao SAIH-OS."
 }
 
 cmd_atualizar() {
   echo "⬆️ [atualizar] – Em preparo."
   echo "Futuramente irá buscar e aplicar atualizações"
-  echo "dos pacotes base e scripts do SAIH OS."
+  echo "dos pacotes base e scripts do SAIH-OS."
 }
 
 cmd_saihchain() {
@@ -109,7 +109,7 @@ case "$1" in
     ;;
   * )
     echo "Comando desconhecido: $1"
-    echo "Use: saih help"
+    echo "Use: saih help  # para ver a lista de comandos."
     exit 1
     ;;
 esac
