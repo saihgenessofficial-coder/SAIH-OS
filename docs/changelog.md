@@ -7,6 +7,7 @@ Registro histórico de mudanças, evolução e revelações aplicadas ao sistema
 ## v1.0 — GENESIS Release
 📅 2025-31-12  
 🔰 Primeira versão pública do SAIH-OS
+⬆ Versão documentada em: [VERSION.md](./docs/version.md)
 
 ### Incluído:
 - README estruturado com manifesto e propósito
