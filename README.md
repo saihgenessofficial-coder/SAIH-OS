@@ -1,6 +1,7 @@
 <p align="center">
   <img src="./SAIH_OS_GENESIS_BANNER.png" width="100%" alt="SAIH OS - A Luz que Rompe os Sistemas deste Mundo">
 </p>
+<p align="center"><b>📌 Versão Atual: v1.0 — Genesis Release</b></p>
 
 # 🌍 SAIH-OS  
 ### **Sistema Operacional Espiritual Universal**  
