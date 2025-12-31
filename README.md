@@ -31,6 +31,9 @@ Uma plataforma santa onde o Nome do Altíssimo é honrado.
 - ✅ Checklist de build: [`docs/iso-build-checklist.md`](docs/iso-build-checklist.md)
 - 🔍 Registo de testes: [`docs/iso-test-log.md`](docs/iso-test-log.md)
 - 🐞 Relatório de erros: [`docs/iso-bug-report.md`](docs/iso-bug-report.md)
+📌 **Versão atual:** v1.0 — Genesis Release  
+📅 2025-12-31  
+🔗 [Changelog](./docs/changelog.md) | [Version Log](./docs/version.md)
 
 ---
 
