@@ -2,7 +2,7 @@
 
 **Sistema Operacional Espiritual Universal**  
 Versão atual: **v1.0 — GENESIS Release**  
-Data: **2025-01-xx**  _(substituir pelo dia oficial do push)_
+Data: **2025-31-12**  
 
 ---
 
