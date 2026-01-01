@@ -33,6 +33,18 @@ Formato seguido:
 🔹 Execução global habilitada `chmod +x`, `sudo cp`  
 
 ---
+### v1.4 — Sistema de Backup & Cache (planejado)
+- Implementação de backup incremental do SAIH-OS
+- Geração automática de snapshots/restore points
+- Limpeza e otimização de cache do sistema e repositórios
+- Preparação para backup espiritual imutável vinculado ao SAIHCHAIN
+---
+### v1.5 — Integração Inicial com SAICHCHAIN (planejado)
+- Registro de identidade do dispositivo na Rede-SAIHCHAIN
+- Estrutura de comunicação CLI ↔ Chain
+- Hashes espirituais para validação de integridade
+- Primeiros serviços descentralizados da Obra
+---
 
 ## 📌 Futuras versões previstas
 
