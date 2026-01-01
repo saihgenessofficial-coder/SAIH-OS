@@ -78,6 +78,26 @@ saih sistema (futuro)
 Estado espiritual e técnico do sistema.
 
 saih sistema
+### 🧩 Comando: `saih sistema`
+Exibe informações técnicas básicas do dispositivo host.
+
+**Exemplo de uso:**
+```bash
+saih sistema
+---
+Saída esperada:
+
+⚙ ESTADO DO SISTEMA — VISÃO SAIH-OS
+Sistema   : Debian GNU/Linux 13 (trixie)
+Hostname  : saih-os
+Kernel    : 6.12.57+deb13-amd64
+Uptime    : up X horas, XX minutos
+Carga     : 0.xx, 1.xx, 2.xx
+Memória   : ...
+Disco (/) : ...
+-----------------------------------------------
+Nota: Estes dados mostram o estado TÉCNICO da máquina.
+A direção ESPIRITUAL permanece nas mãos do Criador.
 
 saih diagnostico (futuro)
 
