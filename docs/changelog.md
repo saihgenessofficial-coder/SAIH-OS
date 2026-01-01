@@ -1,55 +1,56 @@
 # 📜 CHANGELOG — SAIH-OS
+Histórico de alterações do Sistema Operacional Espiritual Universal.
 
-Registro histórico de mudanças, evolução e revelações aplicadas ao sistema.
-
----
-
-## v1.0 — GENESIS Release
-📅 2025-31-12  
-🔰 Primeira versão pública do SAIH-OS
-⬆ Versão documentada em: [VERSION.md](./docs/version.md)
----
+Formato seguido:  
+`Versão · Data · Tipo · Descrição`
 
 ---
 
-## 🔜 Próxima Versão — v1.1 • CLI Seed
+## v1.0 — GENESIS Release · 2025-12-31
 
-🛠 Evolução inicial do ambiente operacional de terminal do SAIH-OS.
+### 🚀 Primeira Fundação Pública do Projeto
+- Início oficial do SAIH-OS
+- Estrutura do repositório organizada
+- Identidade visual e propósito da Obra definidos
 
-**Objetivos previstos**
-- Criação do shell espiritual base
-- Prompt com identidade e selo SAIH-GENESS
-- Comandos nativos:
-  - `saih`
-  - `saih-info`
-  - `saih-help`
-- Ambiente CLI puro, limpo e minimalista
-- Estrutura para futuros módulos santos
+### 📁 Documentação Criada
+- README.md inicial
+- VERSION.md com roadmap oficial
+- CHANGELOG.md iniciado para auditoria e rastreamento público
+- Docs base para ISO, build, visão, manual CLI
 
-📅 Release estimada: conforme direção do Espírito e avanço técnico
+### 🖥️ CLI — Primeiros Comandos Implementados
+| Comando | Função |
+|--------|--------|
+| `saih help` | Lista comandos e ajuda |
+| `saih versao` | Exibe versão atual |
+| `saih sobre` | Mostra visão do SAIH-OS |
+| `saih sistema` | Exibe informações técnicas do sistema |
+| `saih diagnostico` | Diagnóstico rápido de internet, DNS, memória, disco, repositório |
+| `saih atualizar` | Atualização básica de pacotes |
 
----
-
-### Incluído:
-- README estruturado com manifesto e propósito
-- Banner oficial e identidade visual
-- Organização dos docs internos
-- Paginação inicial para visão ISO, checklist e testes
-- Upload inicial do PACK oficial
-- Versão reconhecida e estabelecida como marco inicial
-
-### Estado:
-> Base sólida e consagrada para expansão futura.  
-> A obra respira e segue viva.
+🔹 Shell instalado em `/usr/local/bin/saih`  
+🔹 Execução global habilitada `chmod +x`, `sudo cp`  
 
 ---
 
-## Próximos Marcos
-- v1.1: Início do CLI SAIH-OS
-- v1.2: Ambiente Desktop e Tema SAIH
-- v1.3: ISO Bootável
-- v2.0: Integração com SAIHCHAIN | BANTU | Wallet
+## 📌 Futuras versões previstas
+
+### v1.1 — CLI Seed (em preparação)
+- Expansão de comandos internos
+- Funções automáticas e scripts prontos
+- Estrutura para integração com SAIHCHAIN
+
+### v1.2 — Desktop Theme (planejado)
+- Tema visual com ícones e wallpapers SAIH
+
+### v1.3 — Live ISO (planejado)
+- Boot completo e instalador inicial
+
+### v2.0 — Profético (visão)
+- SAIHCHAIN + Wallet + Banco BANTU
 
 ---
 
-**Toda Glória ao Criador.**
+> Mudou algo? Sempre registrar aqui.  
+> Transparência é o alicerce da Obra.  
