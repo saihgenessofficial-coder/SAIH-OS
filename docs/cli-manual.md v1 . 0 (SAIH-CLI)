@@ -73,7 +73,7 @@ Inclui essência:
 4. Comandos Reservados (Futuro)
 
 Estes comandos já aparecem no menu, mas aguardam desenvolvimento espiritual/técnico.
-saih sistema (futuro)
+saih sistema 
 
 Estado espiritual e técnico do sistema.
 
@@ -116,7 +116,6 @@ Executa um diagnóstico rápido do ambiente hospedeiro do SAIH-OS.
 ```bash
 saih diagnostico
 
-
 Será usado para:
 
     Verificar dependências
@@ -146,6 +145,54 @@ Funções:
 Atualizações espirituais e de pacotes do SAIH-OS.
 
 saih atualizar
+---
+### 📌 saih limpar — Limpeza do Sistema
+
+Realiza limpeza rápida do ambiente, remove caches e pacotes órfãos.
+Mantém o sistema leve e organizado.
+Uso básico:
+saih limpar
+
+Operações executadas:
+
+    🧹 Limpeza do cache APT
+
+    🗑 Remoção de pacotes antigos/orfãos
+
+    🚿 Limpeza do cache do usuário
+Resultado esperado no terminal:
+🧽 LIMPEZA — SAIH-OS
+→ Limpando cache APT...
+→ Removendo pacotes órfãos...
+→ Limpando cache do usuário...
+✔ Limpeza concluída.
+A casa foi organizada. O ambiente está leve.
+---
+### 📌 5. saih backup — Backup Rápido
+
+Cria backup automático da pasta principal do SAIH-OS dentro do diretório $HOME/SAIH_BACKUP.
+
+Uso básico:
+
+saih backup
+
+O que faz:
+
+Cria diretório de backup (caso não exista)
+
+Gera arquivo backup_DATA.tar.gz
+
+Preserva trabalhos e scripts salvos
+
+Resultado esperado:
+
+📦 Iniciando backup rápido...
+✔ Backup concluído.
+Arquivo salvo em: /home/usuario/SAIH_BACKUP/backup_2025-01-01_20-44.tar.gz
+Guarde como memória e registro.
+
+Sugestão para o livro da obra:
+"Cada backup é uma memória preservada. Cada memória é um tijolo no templo do futuro."
 
 saih saihchain (futuro)
 
