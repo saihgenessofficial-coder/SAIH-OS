@@ -1,0 +1,24 @@
+# 📟 Manual de Comandos — SAIH-CLI
+
+Sistema Operacional Espiritual Universal — **SAIH-OS**  
+Canal atual: **Protótipo v0.1 (Fase B – Base Server CLI)**
+
+> Este manual descreve o uso do comando `saih` no terminal  
+> e os subcomandos básicos e futuros reservados.
+
+---
+
+## 1. Instalação do SAIH-CLI (Linux / Debian / SAIH-OS)
+
+```bash
+# 1) Clonar o repositório
+git clone https://github.com/saihgenessofficial-coder/SAIH-OS.git
+cd SAIH-OS/CLI
+
+# 2) Tornar o script executável
+chmod +x saih-cli.sh
+
+# 3) Instalar como comando global "saih"
+sudo mkdir -p /usr/local/bin
+sudo cp saih-cli.sh /usr/local/bin/saih
+sudo chmod +x /usr/local/bin/saih
