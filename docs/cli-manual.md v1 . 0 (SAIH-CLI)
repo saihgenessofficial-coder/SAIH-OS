@@ -1,5 +1,142 @@
----
 📟 Manual de Comandos — SAIH-CLI
+
+Sistema Operacional Espiritual Universal — SAIH-OS
+Canal atual: Protótipo v0.1 (Fase B – Base Server CLI)
+
+    Este manual documenta o uso do comando saih no terminal, incluindo instalação, comandos ativos, reservados, boas práticas e próximos passos.
+
+1. Instalação do SAIH-CLI
+
+# Clonar o repositório
+git clone https://github.com/saihgenessofficial-coder/SAIH-OS.git
+cd SAIH-OS/CLI
+
+# Tornar executável
+chmod +x saih-cli.sh
+
+# Instalar como comando global
+sudo mkdir -p /usr/local/bin
+sudo cp saih-cli.sh /usr/local/bin/saih
+sudo chmod +x /usr/local/bin/saih
+
+Testar:
+
+saih
+
+✔ Se o banner do SAIH-CLI aparecer, a instalação está concluída.
+2. Forma Geral de Uso
+
+saih <comando>
+
+Exemplos:
+
+saih help
+saih versao
+saih sobre
+
+Se nenhum comando for passado, o saih mostra o menu de ajuda.
+3. Comandos Disponíveis — v0.1.0
+saih help
+
+Mostra ajuda com comandos disponíveis.
+
+saih help
+
+saih versao
+
+Exibe versões do SAIH-CLI e SAIH-OS.
+
+saih versao
+
+Saída esperada:
+
+    Versão do SAIH-CLI
+
+    Versão do SAIH-OS
+
+    Canal atual: Protótipo v0.1 (Base Server CLI)
+
+saih sobre
+
+Exibe visão profética e propósito do sistema.
+
+saih sobre
+
+Inclui essência:
+
+    Sistema operacional consagrado
+
+    Ligado à Obra SAIH GENESS
+
+    Luz, ordem e estrutura espiritual para as nações
+
+4. Comandos Reservados (Futuro)
+
+Estes comandos já aparecem no menu, mas aguardam desenvolvimento espiritual/técnico.
+saih sistema (futuro)
+
+Estado espiritual e técnico do sistema.
+
+saih sistema
+
+saih diagnostico (futuro)
+
+Será usado para:
+
+    Verificar dependências
+
+    Validar ambiente
+
+    Conferir conexões do SAIH-OS
+
+saih diagnostico
+
+saih atualizar (futuro)
+
+Atualizações espirituais e de pacotes do SAIH-OS.
+
+saih atualizar
+
+saih saihchain (futuro)
+
+Integração com:
+
+🔹 SAIHCHAIN (rede profética)
+🔹 BANTU (justiça financeira)
+
+saih saihchain
+
+5. Boas Práticas de Uso
+Recomendações	Motivo
+Usar apenas em ambiente consagrado	Segurança e propósito espiritual
+Não rodar em sistemas profanos ou comprometidos	Evitar contaminação digital
+Registrar avanços e revelações	Documentação viva
+Atualizar logs e changelog.md	Linha do tempo espiritual-organizacional
+
+📌 Registrar testes em:
+
+    docs/iso-test-log.md
+
+    docs/changelog.md
+
+6. Próximos Passos (Roadmap CLI)
+
+🔹 Implementação real dos módulos:
+
+    saih sistema
+
+    saih diagnostico
+
+    saih atualizar
+
+    saih saihchain
+
+🔹 Empacotamento .deb + instalador automático
+🔹 Integração com ISO oficial do SAIH-OS
+🔹 Abertura para plugins espirituais no futuro
+Toda Glória ao Criador.
+
+O CLI respira — o Sistema está vivo.📟 Manual de Comandos — SAIH-CLI
 
 Sistema Operacional Espiritual Universal — SAIH-OS
 Canal atual: Protótipo v0.1 (Fase B – Base Server CLI)
