@@ -2,12 +2,30 @@
 
 **Sistema Operacional Espiritual Universal**  
 Versão atual: **v1.0 — GENESIS Release**  
-Data: **2025-31-12**  
+Data: **2025-12-31**
 
 ---
-📄 Consulte também:
-- [CHANGELOG.md](./docs/changelog.md)
-- [README.md](../README.md)
+
+📄 Documentos relacionados:
+- [CHANGELOG.md](./CHANGELOG.md)
+- [README.md](./README.md)
+
+---
+
+## 🔧 Comandos adicionados nesta versão
+
+### `saih atualizar`
+Realiza atualização básica do sistema operacional.
+
+**Uso:**
+```bash
+sudo saih atualizar
+
+Funções:
+- Atualiza lista de pacotes
+- Instala atualizações disponíveis
+- Remove pacotes obsoletos
+
 ---
 
 ### 🔜 v1.1 — CLI Seed (planejado)
