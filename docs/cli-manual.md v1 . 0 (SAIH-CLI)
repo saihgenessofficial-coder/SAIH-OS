@@ -99,7 +99,23 @@ Disco (/) : ...
 Nota: Estes dados mostram o estado TÉCNICO da máquina.
 A direção ESPIRITUAL permanece nas mãos do Criador.
 
-saih diagnostico (futuro)
+saih diagnostico 
+### 🧪 Comando: `saih diagnostico`
+
+Executa um diagnóstico rápido do ambiente hospedeiro do SAIH-OS.
+
+**O que verifica:**
+- Conectividade de rede externa (ping 8.8.8.8)
+- Resolução de nomes / DNS (`debian.org`)
+- Uso de disco na partição raiz `/`
+- Memória utilizada / total
+- Presença do repositório `SAIH-OS` em `$HOME`
+- Instalação global do comando `saih` em `/usr/local/bin`
+
+**Exemplo de uso:**
+```bash
+saih diagnostico
+
 
 Será usado para:
 
